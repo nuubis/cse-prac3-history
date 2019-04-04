@@ -1,0 +1,9 @@
+How many commits are there in total? 11
+
+When was the last commit made? 
+Tue Mar 20 14:21:18 2018
+
+Who is the author of those commits? 
+Stepan Bolotnikov <stjoopa@gmail.com>
+
+What changes were made in the commit with the SHA-1 hash cebfb97? Added local configuration data
